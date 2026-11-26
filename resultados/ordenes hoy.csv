@@ -1,0 +1,8 @@
+Clave,Activo,Ticker,Peso actual,Peso objetivo,Monto actual,Monto objetivo,Accion,Monto a operar,Comision estimada
+IVV,S&P 500,IVV,0.0,0.3,0.0,30000.0,Comprar,30000.0,87.0
+QQQ,Nasdaq 100,QQQ,0.0,0.0,0.0,0.0,Mantener,0.0,0.0
+NAFTRAC,IPC Mexico,NAFTRACISHRS.MX,0.0,0.3,0.0,30000.0,Comprar,30000.0,87.0
+GLD,Oro,GLD,0.0,0.0,0.0,0.0,Mantener,0.0,0.0
+IEF,Bonos del Tesoro 7 a 10 años,IEF,0.0,0.0,0.0,0.0,Mantener,0.0,0.0
+BIL,Dolares en T Bills,BIL,0.0,0.0,0.0,0.0,Mantener,0.0,0.0
+CETES,CETES 28 dias,CETES 28d,1.0,0.4,100000.0,40000.0,Vender,60000.0,0.0

@@ -1,0 +1,18 @@
+{
+ "precios": {
+  "descarga": "21/11/2026 18:09",
+  "tickers": {
+   "IVV": "IVV",
+   "QQQ": "QQQ",
+   "NAFTRAC": "NAFTRACISHRS.MX",
+   "GLD": "GLD",
+   "IEF": "IEF",
+   "BIL": "BIL",
+   "USDMXN": "MXN=X"
+  }
+ },
+ "cetes": {
+  "descarga": "21/11/2026 18:09",
+  "fuente": "Banxico SIE SF43936 · CETES 28 dias, subasta semanal"
+ }
+}

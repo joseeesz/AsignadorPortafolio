@@ -1,0 +1,29 @@
+{
+ "fechadatos": "20/11/2026",
+ "generado": "21/11/2026 18:12",
+ "estrategia": "60/40 Mexico",
+ "decision": "Cartera nueva: invertir segun la tabla",
+ "capital": 100000.0,
+ "pesosobjetivo": {
+  "IVV": 0.3,
+  "QQQ": 0.0,
+  "NAFTRAC": 0.3,
+  "GLD": 0.0,
+  "IEF": 0.0,
+  "BIL": 0.0,
+  "CETES": 0.4
+ },
+ "volpronosticada": 0.1089082056009698,
+ "var1d99": 1751.4277687709587,
+ "var21d99": 7313.826230104503,
+ "clima": "Estres",
+ "percentilriesgo": 0.9728276252476649,
+ "precios": "Yahoo Finance en vivo (21/11/2026 18:09)",
+ "cetes": "Banxico SIE SF43936 · CETES 28 dias, subasta semanal",
+ "versiones": {
+  "python": "3.12.10",
+  "pandas": "2.3.3",
+  "arch": "9.0.0",
+  "plotly": "6.5.0"
+ }
+}
